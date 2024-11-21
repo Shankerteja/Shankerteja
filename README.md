@@ -1,6 +1,6 @@
-#  About Me:raised_hand::
+#  About Me:😃:
 
-<h1 align="center">Hi 👋, I'm Shankerteja</h1>
+<h1 align="center">Hi 👋, I'm Shankerteja Baaki</h1>
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankerteja&label=Profile%20views&color=0e75b6&style=flat" alt="shankerteja" /> </p>
