@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:raised_hand::
 
 <h1 align="center">Hi 👋, I'm Shankerteja</h1>
 <h3 align="center">An aspiring Full Stack Developer with a passion for frontend and backend development</h3>
